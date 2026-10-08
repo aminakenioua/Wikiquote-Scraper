@@ -19,7 +19,13 @@ SEEDS = [
     "https://en.wikiquote.org/wiki/Winston_Churchill",
     "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
     "https://en.wikiquote.org/wiki/Friedrich_Nietzsche",
+
+    # إضافية
+    "https://en.wikiquote.org/wiki/William_Shakespeare",
+    "https://en.wikiquote.org/wiki/Plato",
+    "https://en.wikiquote.org/wiki/Confucius",
 ]
+
 
 STOP_SECTIONS = ("about", "see also", "external links", "references", "further reading")
 
